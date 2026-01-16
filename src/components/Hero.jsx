@@ -7,7 +7,7 @@ import resume from '../assets/Resume (1).pdf';
 
 const Hero = ({ theme }) => {
     return (
-        <section id="home" className="relative w-full h-screen flex items-center justify-center overflow-hidden">
+        <section id="home" className="relative w-full min-h-screen flex items-center justify-center overflow-hidden pt-28 pb-12 md:pt-0 md:pb-0">
             <HeroBackground theme={theme} />
 
             <div className="container mx-auto px-4 z-10 flex flex-col md:flex-row items-center justify-between">
