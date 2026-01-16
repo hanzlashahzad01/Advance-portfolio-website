@@ -94,7 +94,7 @@ const Hero = ({ theme }) => {
                 initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 1, duration: 1, repeat: Infinity, repeatType: 'reverse' }}
-                className="absolute bottom-10 left-1/2 -translate-x-1/2 text-slate-400"
+                className="absolute bottom-10 left-1/2 -translate-x-1/2 text-slate-400 hidden md:block"
             >
                 <span className="text-sm">Scroll Down</span>
             </motion.div>

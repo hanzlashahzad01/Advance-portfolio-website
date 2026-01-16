@@ -23,7 +23,7 @@ const GitHubStats = ({ theme }) => {
                             initial={{ opacity: 0, x: -20 }}
                             whileInView={{ opacity: 1, x: 0 }}
                             transition={{ duration: 0.6 }}
-                            src={`https://github-readme-stats.vercel.app/api?username=hanzlashahzad01&show_icons=true&theme=${theme === 'dark' ? 'tokyonight' : 'default'}&hide_border=true&bg_color=${theme === 'dark' ? '0f172a00' : 'ffffff00'}`}
+                            src={`https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanzlashahzad01&theme=${theme === 'dark' ? 'solarized_dark' : 'default'}`}
                             alt="Hanzla's GitHub Stats"
                             className="w-full h-auto glass rounded-xl shadow-lg border border-slate-200 dark:border-slate-800"
                         />
