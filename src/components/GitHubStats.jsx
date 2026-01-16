@@ -31,7 +31,7 @@ const GitHubStats = ({ theme }) => {
                             initial={{ opacity: 0, x: 20 }}
                             whileInView={{ opacity: 1, x: 0 }}
                             transition={{ duration: 0.6, delay: 0.2 }}
-                            src={`https://github-readme-streak-stats.herokuapp.com/?user=hanzlashahzad01&theme=${theme === 'dark' ? 'tokyonight' : 'default'}&hide_border=true&background=${theme === 'dark' ? '0f172a00' : 'ffffff00'}`}
+                            src={`https://streak-stats.demolab.com/?user=hanzlashahzad01&theme=${theme === 'dark' ? 'tokyonight' : 'light'}&hide_border=true&background=${theme === 'dark' ? '0f172a00' : 'ffffff00'}`}
                             alt="Hanzla's GitHub Streak"
                             className="w-full h-auto glass rounded-xl shadow-lg border border-slate-200 dark:border-slate-800"
                         />
