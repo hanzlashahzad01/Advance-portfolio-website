@@ -51,3 +51,12 @@ If you are developing a production application, we recommend using TypeScript wi
 
 <img width="1919" height="1032" alt="contact me" src="https://github.com/user-attachments/assets/2eb6c610-79bc-4e19-a8d2-79f593f9c6f4" />
 
+## 📬 Connect with Me
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+Email: hanzlashahzadhanzlashahzad@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hanzla-shahzad
+
+GitHub: https://github.com/hanzlashahzad01/hanzlashahzad01
+
