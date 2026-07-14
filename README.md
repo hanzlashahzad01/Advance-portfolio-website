@@ -54,10 +54,10 @@ If you are developing a production application, we recommend using TypeScript wi
 ## 📬 Connect with Me
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-Email: hanzlashahzadhanzlashahzad@gmail.com
+## Email: hanzlashahzadhanzlashahzad@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/hanzla-shahzad
+## LinkedIn: https://www.linkedin.com/in/hanzla-shahzad
 
-GitHub: https://github.com/hanzlashahzad01/hanzlashahzad01
+## GitHub: https://github.com/hanzlashahzad01/hanzlashahzad01
 
-Made by Hanzla Shahzad💓🔥
+## Made by Hanzla Shahzad
